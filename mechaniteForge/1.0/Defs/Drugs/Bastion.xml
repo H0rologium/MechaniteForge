@@ -42,14 +42,12 @@
 	<HediffDef>
 		<defName>MFBastionHigh</defName>
 		<label>bastion</label>
-		<description>bastion in your system</description>
 		<defaultLabelColor>(0.6,0.85,0.91)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<hediffClass>MechaniteForge.ShieldHediff</hediffClass>
 		<initialSeverity>5.0</initialSeverity>
 		<maxSeverity>40.0</maxSeverity>
 		<isBad>false</isBad>
-		
 		<stages>
 			<li>
 				<label>Shield broken</label>

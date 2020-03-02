@@ -43,12 +43,10 @@
 		<defName>MFAngeliumHigh</defName>
 		<hediffClass>MechaniteForge.AngeliumHediff</hediffClass>
 		<label>seraphium</label>
-		<description>seraphium in your system</description>
 		<defaultLabelColor>(0.6,0.85,0.91)</defaultLabelColor>
 		<isBad>false</isBad>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
-		
 		<stages>
 			<li>
 				<painFactor>1.1</painFactor>
@@ -70,7 +68,6 @@
 	<HediffDef>
 		<defName>MFProtoBodypart</defName>
 		<label>regrowing</label>
-		<description>a regrowing limb</description>
 		<hediffClass>MechaniteForge.GrowingPartHediff</hediffClass>
 		<defaultLabelColor>(0.59, 0.92, 0.69)</defaultLabelColor>
 		<isBad>false</isBad>
@@ -109,7 +106,6 @@
 	<HediffDef>
 		<defName>MFCuredBodypart</defName>
 		<label>cured bodypart</label>
-		<description>A recently cured body part</description>
 		<hediffClass>MechaniteForge.RemovableHediff</hediffClass>
 		<defaultLabelColor>(1.0, 1.0, 1.0)</defaultLabelColor>
 		<isBad>false</isBad>

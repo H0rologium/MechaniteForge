@@ -44,14 +44,12 @@
 	<HediffDef>
 		<defName>MFHerculiumHigh</defName>
 		<label>herculium</label>
-		<description>herculium in your system</description>
 		<defaultLabelColor>(0.6,0.85,0.91)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<hediffClass>HediffWithComps</hediffClass>
 		<initialSeverity>1.0</initialSeverity>
 		<maxSeverity>1.0</maxSeverity>
 		<isBad>false</isBad>
-		
 		<stages>
 			<li>
 				<capMods>
@@ -124,7 +122,6 @@
 	<HediffDef>
 		<defName>MFPeithiumHigh</defName>
 		<label>peithium</label>
-		<description>peithium in your system</description>
 		<defaultLabelColor>(0.6,0.85,0.91)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<hediffClass>HediffWithComps</hediffClass>
